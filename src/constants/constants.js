@@ -1,0 +1,38 @@
+export const projects = [
+  {
+    title: 'GPT-3',
+    description: "A modern UI/UX Figma web design converted to Web page. The website is responsive to small size devices. ",
+    image: '/images/1.png',
+    tags: ['HTML', 'CSS', "Javascript", 'React'],
+    source: 'https://github.com/sureshkanna1071/gpt-3',
+    visit: 'https://gpt-3-drab.vercel.app/',
+    id: 0,
+  },
+  {
+    title: 'E-Commerce',
+    description:"A fully functional e-commerce website with payments options. The website is responsive to small size devices.",
+    image: '/images/2.png',
+    tags: ['React', 'Next', 'Sanity', 'Stripe'],
+    source: 'https://github.com/sureshkanna1071/electronix-ecommerce',
+    visit: 'https://electronix-ecommerce.vercel.app/',
+    id: 1,
+  },
+  {
+    title: 'Tinder Clone',
+    description: "This is a clone of 2017 version of Tinder. The website is responsive to small size devices.",
+    image: '/images/3.png',
+    tags: ['HTML', 'CSS', 'Bootstrap'],
+    source: 'https://github.com/sureshkanna1071/Tinder-clone',
+    visit: 'https://tinder-clone-lac.vercel.app/',
+    id: 2,
+  },
+  {
+    title: 'Simon Game',
+    description: "A fun simon game website.",
+    image: '/images/4.png',
+    tags: ['HTML', 'CSS', 'Javascript', 'Jquery'],
+    source: 'https://github.com/sureshkanna1071/Simon-game',
+    visit: 'https://simon-game-jet-delta.vercel.app/',
+    id: 3,
+  },
+];
